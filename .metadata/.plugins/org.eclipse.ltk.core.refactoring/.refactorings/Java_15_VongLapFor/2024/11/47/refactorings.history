@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;VongLap&apos; to &apos;VongLapFor&apos;&#x0D;&#x0A;- Original project: &apos;Java_15&apos;&#x0D;&#x0A;- Original element: &apos;VongLap&apos;&#x0D;&#x0A;- Renamed element: &apos;VongLapFor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;VongLap&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{VongLap.java[VongLap" matchStrategy="1" name="VongLapFor" qualified="false" references="true" similarDeclarations="false" stamp="1732201823860" textual="false" version="1.0"/>
+</session>

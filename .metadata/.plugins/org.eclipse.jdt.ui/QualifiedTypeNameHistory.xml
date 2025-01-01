@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="MyDate"/>
+    <fullyQualifiedTypeName name="HoaDonCaPhe"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Lop"/>
+    <fullyQualifiedTypeName name="SinhVien"/>
+    <fullyQualifiedTypeName name="NgaySanXuat"/>
+    <fullyQualifiedTypeName name="QuocGia"/>
+    <fullyQualifiedTypeName name="HangSanXuat"/>
+    <fullyQualifiedTypeName name="MayTinh"/>
+    <fullyQualifiedTypeName name="ConNguoi"/>
+    <fullyQualifiedTypeName name="HocSinh"/>
+    <fullyQualifiedTypeName name="Animal"/>
+    <fullyQualifiedTypeName name="Dog"/>
+    <fullyQualifiedTypeName name="BabyDog"/>
+    <fullyQualifiedTypeName name="Cat"/>
+    <fullyQualifiedTypeName name="Bird"/>
+</qualifiedTypeNameHistroy>
